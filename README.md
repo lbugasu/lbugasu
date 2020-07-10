@@ -1,9 +1,9 @@
-# 🌛Sasa, it's Laurence here!
+# ✨Sasa, it's Laurence here!
 
 I am a developer working at the intersection of storytelling and software
 
 
-## 👨‍🔧Currently working on:
+## Currently working on👨‍🔧:
 [a classification model](https://github.com/lbugasu/truth-teller) for telling tweets that announce a disaster from those that do not
 
 <hr/>
