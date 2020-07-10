@@ -14,7 +14,7 @@ I am a developer working at the intersection of storytelling and software
   <img src="https://image.flaticon.com/icons/png/512/23/23931.png" alt="Laurence Ininda's Twitter Profile" height="30" width="30"padding="30">
 </a>&nbsp&nbsp
 <a href="https://www.linkedin.com/in/laurence-ininda/">
-  <img src="https://www.iconninja.com/files/179/13/266/black-linkedin-icon.png" alt="Laurence Ininda's LinkedIn Profile" height="40" width="40"padding="30">
+  <img src="https://www.iconninja.com/files/179/13/266/black-linkedin-icon.png" alt="Laurence Ininda's LinkedIn Profile" height="30" width="30"padding="30">
 </a>&nbsp&nbsp
 <a href="https://laudebugs.me/laudebugs.me/static/media/eyeem.2b97990d.png">
   <img src="https://laudebugs.me/laudebugs.me/static/media/eyeem.2b97990d.png" alt="Laurence Ininda's EyeEm Profile" height="30" width="30" padding="30">
