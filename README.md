@@ -4,7 +4,7 @@ I am a developer working at the intersection of storytelling and software
 
 
 ## Currently working on👨‍🔧:
-[a classification model](https://github.com/lbugasu/truth-teller) for telling tweets that announce a disaster from those that do not
+telling stories
 
 <hr/>
 <a href="https://dev.to/lbugasu">
