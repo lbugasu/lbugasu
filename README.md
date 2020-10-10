@@ -3,8 +3,8 @@
 I am a developer working at the intersection of storytelling and software
 
 
-## Currently working on👨‍🔧:
-telling stories
+//## Currently working on👨‍🔧:
+
 
 <hr/>
 <a href="https://dev.to/lbugasu">
