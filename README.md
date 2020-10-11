@@ -13,6 +13,6 @@ I am a developer working at the intersection of storytelling and software
 <a href="https://www.linkedin.com/in/laurence-ininda/">
   <img src="https://www.iconninja.com/files/179/13/266/black-linkedin-icon.png" alt="Laurence Ininda's LinkedIn Profile" height="30" width="30"padding="30">
 </a>&nbsp&nbsp
-<a href="https://laudebugs.me/laudebugs.me/static/media/eyeem.2b97990d.png">
+<a href="https://www.eyeem.com/u/laudebugs">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Eyeem.png" alt="Laurence Ininda's EyeEm Profile" height="30" width="30" padding="30">
 </a>
