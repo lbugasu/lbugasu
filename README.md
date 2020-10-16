@@ -1,6 +1,6 @@
 # ✨Sasa, it's Laurence here!
 
-I am a developer working at the intersection of storytelling and software
+I am a <a href = "https://lbugasu.github.io/#/">developer </a> working at the intersection of storytelling and software
 
 
 <hr/>
