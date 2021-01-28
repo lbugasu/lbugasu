@@ -1,4 +1,4 @@
-# ✨Sasa, it's Laurence here!
+# ✨Hello, it's Laurence here!
 
 I am a <a href = "https://lbugasu.github.io/#/">developer </a> working at the intersection of storytelling and software
 
