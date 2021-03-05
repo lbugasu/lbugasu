@@ -1,7 +1,7 @@
 ![Banner](github_banner.gif)
 # ✨Hi, it's Laurence here!
 
-I am a <a href = "https://lbugasu.github.io/#/">developer </a> working at the intersection of storytelling and software
+I am a developer working at the intersection of storytelling and software. Software and story-telling? You may ask🤔. If you're curious, you can find some of my writing [here](https://laudebugs.me/#/) and my tech articles [right here](https://laudebugs.me/#/dev)
 
 >Feel free to reach out to me about an interesting project or just say hello!💆
 
