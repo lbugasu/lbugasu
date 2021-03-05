@@ -1,7 +1,9 @@
-# ✨Hello, it's Laurence here!
+![Banner](github_banner.gif)
+# ✨Hi, it's Laurence here!
 
 I am a <a href = "https://lbugasu.github.io/#/">developer </a> working at the intersection of storytelling and software
 
+>Feel free to reach out to me about an interesting project or just say hello!💆
 
 <hr/>
 <a href="https://dev.to/lbugasu">
